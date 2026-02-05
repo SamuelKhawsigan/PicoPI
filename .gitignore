@@ -1,0 +1,9 @@
+# Ignore vault data if testing locally
+.myvault/
+*.gpg
+.vault_log
+
+# Ignore system files
+.DS_Store
+.vscode/
+.git
